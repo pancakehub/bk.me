@@ -20,7 +20,8 @@ main:
 
 sidebar:
   - identifier: more
-    name: Still need help?
+    name: "BK V1 ↗"
+    url: "https://perwebk-portfolio.pages.dev/"
     params:
       type: separator
     weight: 1
@@ -29,6 +30,6 @@ sidebar:
     pageRef: "/community"
     weight: 2
   - identifier: hugoDocs
-    name: "Hugo Docs ↗"
-    url: "https://docs.hugoblox.com"
+    name: "For Fun"
+    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyvoGgW3OZt2qdMC9cEOI0Yvn346FQaSHgLz4wjKra8fI-CQmgKjGoBqJmc_2nk7yXbmA&usqp=CAU"
     weight: 3

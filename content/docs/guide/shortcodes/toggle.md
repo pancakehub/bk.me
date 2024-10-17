@@ -2,10 +2,12 @@
 title: Spoiler
 ---
 
+<!--
 A Hugo shortcode to toggle collapsible content.
 
 <!--more-->
 
+<!--
 ## Example
 
 {{< spoiler text="Click to view the spoiler" >}}
@@ -25,3 +27,4 @@ Markdown is **supported**.
 
 {{</* /spoiler */>}}
 ````
+-->

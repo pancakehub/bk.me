@@ -1,8 +1,10 @@
 ---
-title: Steps Shortcode
+title: StepsS
 linkTitle: Steps
 ---
+For Future purpose...
 
+<!--
 Display a series of steps, such as for a tutorial.
 
 ## Example
@@ -45,3 +47,4 @@ The third step here...
 
 {{%/* /steps */%}}
 ```
+-->

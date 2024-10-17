@@ -1,12 +1,15 @@
 ---
-title: Community
+title: TimeLine
 toc: true
 reading_time: false
 pager: false
 ---
 
-## Support
+**Support**
+You can support through[Buy me a Coffee](https://studio.buymeacoffee.com/stream-alert/page/bhuvankande?user_key=b79eaea3961c9ecbe12a91bee95f6407)
 
+Future plans.... 
+<!--
 Get support fast. Hugo Blox has the largest Hugo community on Discord, consisting of thousands of creators, developers, and startups.
 
 ## Docs
@@ -34,3 +37,5 @@ Follow us so you are the first to know when new features and templates are launc
 ## Further Resources
 
 - [Hugo Forums](https://discourse.gohugo.io/) for help installing Hugo and resolving Hugo error messages
+
+-->

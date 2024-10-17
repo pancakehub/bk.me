@@ -1,6 +1,6 @@
 ---
-title: Nvidia
-summary: nvidia.com
-external_link: https://research.nvidia.com/labs/toronto-ai/
-date: 2024-02-17
+title: NRSC
+summary: Beautiful workplace, best mentors and best experiance
+external_link: https://www.nrsc.gov.in/aboutus_campus_nrscjdm?language_content_entity=en
+date: 2024-01-22
 ---

@@ -1,14 +1,16 @@
 ---
-title: Callout Shortcode
+title: CalloutS
 linkTitle: Callout
 ---
-
+For Future purpose...
+<!--
 Hugo Blox supports a Markdown extension for callouts, also referred to as alerts or asides.
 
 Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.
 
 <!--more-->
 
+<!--
 ## Usage
 
 ### Notes
@@ -34,3 +36,4 @@ Here's some important information...
 Here's some important information...
 {{%/* /callout */%}}
 ```
+-->

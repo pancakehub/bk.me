@@ -1,8 +1,38 @@
 ---
-title: Project Structure
+title: ProjectS
 weight: 1
 ---
 
+**2024**
+- **Cyclone Analysis**
+  Developed a data analytics model to identify tropical cyclone centers using wind stress, wind curl, 
+  and divergence analysis techniques. Employed with wind components data from EOS-6 satellite's 
+  scatteromter L2B data in HDF5 format, applying advanced analytics methodologies to interpret 
+  patterns and streamline cyclone center detection. Integration of these techniques enhanced 
+  accuracy and efficiency in forecasting cyclone formation and behavior.
+
+  [GitHub Repository](https://github.com/Karroat/Cyclone-Analysis.git)
+  
+  (Python, Google Colab, Deep Learning Techniques, Tensorflow, Matplotlib)
+---
+
+**2023**
+- **Fiestel-P-VOL** Cryptography Algorithm
+  Uses an old algorithm widely used in world war 1 and 2 to provide a highly secure communication 
+  path. The system performs deciphering automatically without user interruption and encrypts
+  plain text further in layers.
+
+  [GitHub Repository](https://github.com/Karroat/fiestel.git)
+
+  (Java, VSCode, Cryptography Techniques)
+
+- **1215-Music** Musical Cryptography Algorithm 
+  A web application which integrates musical nodes with cryptography.
+
+  [GitHub Repository](https://github.com/Karroat/1215music.git)
+
+  (JavaScript, Html, Css, VSCode, Cryptography Techniques)
+<!--
 ## Folder Structure
 
 There are **4 main folders for Hugo-based sites**:
@@ -57,3 +87,4 @@ title: My Test
 weight: 2
 ---
 ```
+-->

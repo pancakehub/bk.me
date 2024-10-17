@@ -1,36 +1,47 @@
 ---
-title: Getting Started
+title: Bio
 date: 2024-02-17
 weight: 1
 ---
 
-## Quick Start from Template
+*Me. Skills. Credentials.*
 
-{{% steps %}}
+**Me-Graduate**
+- **Bachelors Credential**  
+  Information Technology (16", 2024) from Vignan Institute of Technology and Science
+  CGPA: 7.45
 
-### Initialize a new site
+---
 
-[Click to copy the template on GitHub](https://github.com/new?template_name=theme-documentation&template_owner=HugoBlox)
+**Skills**
+- **Tech Stack**  
+  Java, Python, Web Development (HTML, CSS), JavaScript, Azure
 
-### Configure your new site
+- **Familiar**  
+  IoT, MySQL, Linux, Git & GitHub
 
-[Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
+- **Tools**  
+  Google Colab, VSCode, Spyder, Tableau
 
-### Add your content
+---
 
-[Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
+**Credentials**
+- **Azure Fundamentals AZ-900**  
+  Microsoft Azure
 
-### Publish your site
+- **Cloud Computing**  
+  NPTEL
 
-[Easily publish your site for free with GitHub Pages](https://docs.hugoblox.com/tutorial/blog/)
+- **Troubleshooting Tableau**  
+  Spring Board
 
-{{% /steps %}}
+*Next*
 
-## Next
+To Projects and Hobbies XD
 
-Let's customize your new site:
-
+<!--
 {{< cards >}}
   {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
   {{< card url="../guide/configuration" title="Configuration" icon="adjustments-vertical" >}}
 {{< /cards >}}
+-->

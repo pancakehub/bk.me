@@ -1,8 +1,9 @@
 ---
-title: Cards Shortcode
+title: CardsS
 linkTitle: Cards
 ---
-
+For Future purpose...
+<!--
 A Hugo extension to create cards. Cards can be shown as links or as plain text.
 
 ## Usage
@@ -29,3 +30,4 @@ is rendered by:
 | `title`    | Title heading for the card.                                            |
 | `subtitle` | Subtitle heading (supports Markdown).                                  |
 | `url`      | URL                                                                    |
+-->

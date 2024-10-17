@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: Create. Share. Repeat.
+      text: The boaring journey of a fresher not so geek site 👓.
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/details/docs/
@@ -37,6 +37,7 @@ sections:
           filename: ""
           filters:
             brightness: 0.5
+
   - block: stats
     content:
       items:

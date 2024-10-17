@@ -1,5 +1,5 @@
 ---
-title: Shortcodes
+title: ShortS
 ---
 
 Build the best docs with re-usable components, referred to as Hugo shortcodes:
