@@ -30,10 +30,10 @@ sections:
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: ""
-      background:
+      background: 
         color: ""
-        image:
-          # Add your image background to `assets/media/`.
+        image: 
+        # Add your image background to `assets/media/`.
           filename: ""
           filters:
             brightness: 0.5

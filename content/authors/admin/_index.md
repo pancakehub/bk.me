@@ -22,11 +22,10 @@ role: Developer and Comic Book enthusiast
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Vignan University
-    url: https://www.stanford.edu/
+    url: https://vignanits.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hey, I’m Bhuvan Kandhi, a 22-year-old tech enthusiast with a Major in Information Technology. I’m passionate about clean code and love tackling complex problems. Recently, I had the opportunity to work at NRSC ISRO on cyclone analysis, which was an incredible experience. I’m always up for a challenge—whether it’s coding, exploring new technologies, or learning something completely new. Right now, I’m focused on Azure, honing my skills in cloud solutions, deployment strategies, and managing resources effectively.
-
+bio: Hey, I’m Bhuvan Kandhi, I’m passionate about clean code and love tackling complex problems. I’m always try to make up time for everything that comes into my life whether it’s coding, exploring new technologies, or learning something completely new - Reading Comics & Running are fav XD.
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
