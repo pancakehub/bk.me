@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "6rem"
 
 sections:
   - block: hero
@@ -37,7 +37,8 @@ sections:
           filename: ""
           filters:
             brightness: 0.5
-
+---
+<!--
   - block: stats
     content:
       items:
@@ -95,4 +96,4 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
----
+-->
