@@ -5,6 +5,7 @@ main:
   - name: Home
     url: /
     weight: 10
+    icon: fa-home
   - name: Crafts & Details
     url: docs/
     weight: 20
