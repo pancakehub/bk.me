@@ -1,5 +1,5 @@
 ---
-linkTitle: Reference
+linkTitle: Journals/Papers
 title: Journals
 ---
 

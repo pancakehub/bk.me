@@ -5,7 +5,7 @@ linkTitle: Steps
 For Future purpose...
 
 
-[Articles and References](../reference/_index)
+
 <!--
 Display a series of steps, such as for a tutorial.
 
