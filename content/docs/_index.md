@@ -16,5 +16,5 @@ I'm obsessed with side projects and building in public. Here are some Projects y
 *Next*
 
 {{< cards >}}
-  {{< card url="getting-started" title="Bio" icon="document-text" subtitle="Follow Along!" >}}
+  {{< card url="getting-started" title="Now" icon="document-text" subtitle="Follow Along!" >}}
 {{< /cards >}}
