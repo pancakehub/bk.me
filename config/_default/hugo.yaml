@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Bhuvan's Base" # Website name
-baseURL: 'https://bhuvankandhi.netlify.app/' # Website URL
-
+# baseURL: 'https://bhuvankandhi.netlify.app/' # Website URL
+baseURL: 'https://pancakehub.github.io/bk.me/'
 ############################
 ## PAGE OPTIONS
 ############################
