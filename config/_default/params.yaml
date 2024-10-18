@@ -49,21 +49,17 @@ header:
 # Site footer
 footer:
   profiles:
-    - icon: at-symbol
+  profiles:
+    - label: Email
       url: 'mailto:bhuvankandhi2002@gmail.com'
-      label: E-mail Me
-    - icon: brands/x
-      url: https://x.com/BhuvanchandaraK
-    - icon: brands/instagram
-      url: https://www.instagram.com/bhuvan_kandhi/?hl=en
-    - icon: brands/linkedin
-      url: https://www.linkedin.com/in/bhuvan-k-62263a243/
-    - icon: academicons/cv
-      url: uploads/resume.pdf
-      label: Download my resume
-    - icon: rss
-      url: https://perwebk-portfolio.pages.dev/
-      label: Peek at my Cli! XD
+    - label: Twitter
+      url: 'https://x.com/BhuvanchandaraK'
+    - label: GitHub
+      url: 'https://github.com/Karroat'
+    - label: LinkedIn
+      url: 'https://www.linkedin.com/in/bhuvan-k-62263a243/'
+    - label: Instagram
+      url: 'https://www.instagram.com/bhuvan_kandhi/?hl=en'
 
   copyright:
     notice: '© {year} karroat Made with ❤ and !$_$!'
