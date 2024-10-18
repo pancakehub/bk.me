@@ -37,7 +37,7 @@ weight: 1
 
 *Next*
 
-[To Projects and Hobbies XD](/workspaces/bk.me/content/docs/guide/)
+[To Projects and Hobbies XD](/content/docs/guide/)
 
 <!--
 {{< cards >}}
