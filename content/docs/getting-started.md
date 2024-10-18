@@ -37,7 +37,7 @@ weight: 1
 
 *Next*
 
-[To Projects and Hobbies XD](Project Structure)
+[To Projects and Hobbies XD](project-structure)
 <!--
 {{< cards >}}
   {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
